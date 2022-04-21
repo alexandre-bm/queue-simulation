@@ -1,0 +1,4 @@
+arrival_rate: 120
+service_rate: 150
+simulations: 100
+#capacity: 10
